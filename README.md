@@ -14,7 +14,7 @@ A Django-based job portal API (without DRF).
 ## Setup
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/job-portal-api.git
+   git clone https:/Sainvi-j/github.com//job-portal-api.git
    ```
 2. Install dependencies:
    ```bash
